@@ -3,6 +3,10 @@
 A Machine Learning web application built using Python, Scikit-learn, and Streamlit to predict whether a person is eligible to buy insurance based on age.
 
 ---
+# Live Demo
+
+Streamlit App:
+https://insurance-eligible-predict.streamlit.app/
 
 # Features
 
